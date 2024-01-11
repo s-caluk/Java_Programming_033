@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Programming_033.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m09_my_first_program/FirstClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m10_variables_data_types/BooleanVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m10_variables_data_types/CharVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m10_variables_data_types/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m10_variables_data_types/FlightTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m10_variables_data_types/StringIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m10_variables_data_types/WholeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m11_operators_part1/Addition_VS_Concatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m11_operators_part1/ArithmeticOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m11_operators_part1/ExplicitCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m11_operators_part1/ImplicitCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m11_operators_part1/OperatorAssignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m11_operators_part1/SwapValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m12_operators_part2/AssigmentOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m12_operators_part2/IncrementDecrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m12_operators_part2/LogicalComplement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m12_operators_part2/MixedOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m12_operators_part2/PrePostIncrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m12_operators_part2/ShorthandOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m12_operators_part2/TotalPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m12_operators_part2/UnaryOperatorPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m12_operators_part2/UnaryPlusMinus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m13_operators_part3/AND_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m13_operators_part3/BitWiseExckusiveOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m13_operators_part3/LabOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m13_operators_part3/OR_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m13_operators_part3/RelationalsOperators.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/m09_my_first_program/FirstClass.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2aXbvK1AWp9fJXN6IjLgT3fiGdi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Addition_VS_Concatenation.executor": "Run",
+    "Application.ArithmeticOperators.executor": "Run",
+    "Application.AssigmentOperator.executor": "Run",
+    "Application.BitWiseExckusiveOperators.executor": "Run",
+    "Application.BooleanVariable.executor": "Run",
+    "Application.CharVariable.executor": "Run",
+    "Application.ExplicitCasting.executor": "Run",
+    "Application.FirstClass.executor": "Run",
+    "Application.FlightTicket.executor": "Run",
+    "Application.ImplicitCasting.executor": "Run",
+    "Application.LabOperators.executor": "Run",
+    "Application.LogicalComplement.executor": "Run",
+    "Application.MixedOperations.executor": "Run",
+    "Application.OR_Operator.executor": "Run",
+    "Application.OperatorAssignment.executor": "Run",
+    "Application.PrePostIncrement.executor": "Run",
+    "Application.RelationalsOperators.executor": "Run",
+    "Application.ShorthandOperators.executor": "Run",
+    "Application.StringIntro.executor": "Run",
+    "Application.SwapValues.executor": "Run",
+    "Application.TotalPrice.executor": "Run",
+    "Application.UnaryOperatorPractices.executor": "Run",
+    "Application.UnaryPlusMinus.executor": "Run",
+    "Application.WholeNumbers.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propCompiler",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.LabOperators">
+    <configuration name="BitWiseExckusiveOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m13_operators_part3.BitWiseExckusiveOperators" />
+      <module name="Java_Programming_033" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="m13_operators_part3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m09_my_first_program.FirstClass" />
+      <module name="Java_Programming_033" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="m09_my_first_program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LabOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m13_operators_part3.LabOperators" />
+      <module name="Java_Programming_033" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="m13_operators_part3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OR_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m13_operators_part3.OR_Operator" />
+      <module name="Java_Programming_033" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="m13_operators_part3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RelationalsOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m13_operators_part3.RelationalsOperators" />
+      <module name="Java_Programming_033" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="m13_operators_part3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LabOperators" />
+        <item itemvalue="Application.FirstClass" />
+        <item itemvalue="Application.BitWiseExckusiveOperators" />
+        <item itemvalue="Application.OR_Operator" />
+        <item itemvalue="Application.RelationalsOperators" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="" />
+      <created>1704468099847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704468099847</updated>
+      <workItem from="1704468100845" duration="2833000" />
+      <workItem from="1704471169352" duration="9556000" />
+      <workItem from="1704717061492" duration="4277000" />
+      <workItem from="1704730135374" duration="22751000" />
+      <workItem from="1704890113060" duration="4838000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
