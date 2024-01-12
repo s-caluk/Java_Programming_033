@@ -5,39 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Programming_033.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m09_my_first_program/FirstClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m10_variables_data_types/BooleanVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m10_variables_data_types/CharVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m10_variables_data_types/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m10_variables_data_types/FlightTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m10_variables_data_types/StringIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m10_variables_data_types/WholeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m11_operators_part1/Addition_VS_Concatenation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m11_operators_part1/ArithmeticOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m11_operators_part1/ExplicitCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m11_operators_part1/ImplicitCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m11_operators_part1/OperatorAssignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m11_operators_part1/SwapValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m12_operators_part2/AssigmentOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m12_operators_part2/IncrementDecrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m12_operators_part2/LogicalComplement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m12_operators_part2/MixedOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m12_operators_part2/PrePostIncrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m12_operators_part2/ShorthandOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m12_operators_part2/TotalPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m12_operators_part2/UnaryOperatorPractices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m12_operators_part2/UnaryPlusMinus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m13_operators_part3/AND_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m13_operators_part3/BitWiseExckusiveOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m13_operators_part3/LabOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m13_operators_part3/OR_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m13_operators_part3/RelationalsOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m14_selection_statements_part1/EligibleToVote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m14_selection_statements_part1/Lab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m14_selection_statements_part1/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m14_selection_statements_part1/Watermelon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m14_selection_statements_part1/WeeklyWage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming_033/m13_operators_part3/LabOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Programming_033/m13_operators_part3/LabOperators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/m13_operators_part3/LabOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m13_operators_part3/LabOperators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,13 +51,16 @@
     "Application.BitWiseExckusiveOperators.executor": "Run",
     "Application.BooleanVariable.executor": "Run",
     "Application.CharVariable.executor": "Run",
+    "Application.EligibleToVote.executor": "Run",
     "Application.ExplicitCasting.executor": "Run",
     "Application.FirstClass.executor": "Run",
     "Application.FlightTicket.executor": "Run",
     "Application.ImplicitCasting.executor": "Run",
+    "Application.Lab.executor": "Run",
     "Application.LabOperators.executor": "Run",
     "Application.LogicalComplement.executor": "Run",
     "Application.MixedOperations.executor": "Run",
+    "Application.Number.executor": "Run",
     "Application.OR_Operator.executor": "Run",
     "Application.OperatorAssignment.executor": "Run",
     "Application.PrePostIncrement.executor": "Run",
@@ -93,6 +71,8 @@
     "Application.TotalPrice.executor": "Run",
     "Application.UnaryOperatorPractices.executor": "Run",
     "Application.UnaryPlusMinus.executor": "Run",
+    "Application.Watermelon.executor": "Run",
+    "Application.WeeklyWage.executor": "Run",
     "Application.WholeNumbers.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -112,13 +92,18 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LabOperators">
-    <configuration name="BitWiseExckusiveOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m13_operators_part3.BitWiseExckusiveOperators" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="m14_selection_statements_part1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Lab">
+    <configuration name="EligibleToVote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m14_selection_statements_part1.EligibleToVote" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m13_operators_part3.*" />
+          <option name="PATTERN" value="m14_selection_statements_part1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m09_my_first_program.FirstClass" />
+    <configuration name="Lab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m14_selection_statements_part1.Lab" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m09_my_first_program.*" />
+          <option name="PATTERN" value="m14_selection_statements_part1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LabOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m13_operators_part3.LabOperators" />
+    <configuration name="Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m14_selection_statements_part1.Number" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m13_operators_part3.*" />
+          <option name="PATTERN" value="m14_selection_statements_part1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OR_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m13_operators_part3.OR_Operator" />
+    <configuration name="Watermelon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m14_selection_statements_part1.Watermelon" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m13_operators_part3.*" />
+          <option name="PATTERN" value="m14_selection_statements_part1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RelationalsOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m13_operators_part3.RelationalsOperators" />
+    <configuration name="WeeklyWage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m14_selection_statements_part1.WeeklyWage" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m13_operators_part3.*" />
+          <option name="PATTERN" value="m14_selection_statements_part1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LabOperators" />
-        <item itemvalue="Application.FirstClass" />
-        <item itemvalue="Application.BitWiseExckusiveOperators" />
-        <item itemvalue="Application.OR_Operator" />
-        <item itemvalue="Application.RelationalsOperators" />
+        <item itemvalue="Application.Lab" />
+        <item itemvalue="Application.Number" />
+        <item itemvalue="Application.EligibleToVote" />
+        <item itemvalue="Application.Watermelon" />
+        <item itemvalue="Application.WeeklyWage" />
       </list>
     </recent_temporary>
   </component>
@@ -208,6 +193,9 @@
       <workItem from="1704717061492" duration="4277000" />
       <workItem from="1704730135374" duration="22751000" />
       <workItem from="1704890113060" duration="4838000" />
+      <workItem from="1704964702011" duration="1574000" />
+      <workItem from="1704979422547" duration="7395000" />
+      <workItem from="1705048857537" duration="4772000" />
     </task>
     <servers />
   </component>
