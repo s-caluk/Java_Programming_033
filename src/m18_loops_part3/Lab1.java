@@ -1,6 +1,6 @@
 package m18_loops_part3;
 
-public class Lap1 {
+public class Lab1 {
     public static void main(String[] args) {
         //----for Loop--------------------------
         int sumEven = 0 ;

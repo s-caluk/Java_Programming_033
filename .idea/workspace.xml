@@ -5,16 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/m14_selection_statements_part1/Grading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m14_selection_statements_part1/Lab2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m14_selection_statements_part1/Salary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m15_selection_statements_part2/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m15_selection_statements_part2/Lab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m15_selection_statements_part2/TernaryNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m15_selection_statements_part2/TernaryVote.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming_033/m14_selection_statements_part1/Lab.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Programming_033/m14_selection_statements_part1/Lab.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/m14_selection_statements_part1/Lab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m14_selection_statements_part1/Lab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/m16_loops_part1/DifferentStartEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m16_loops_part1/DifferentStartEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/m16_loops_part1/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m16_loops_part1/ForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/m16_loops_part1/Lab1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m16_loops_part1/Lab1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/m16_loops_part1/Lab2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m16_loops_part1/Lab2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/m16_loops_part1/Lab3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m16_loops_part1/Lab3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/m16_loops_part1/Lab4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m16_loops_part1/Lab4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/m16_loops_part1/Lab5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m16_loops_part1/Lab5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/m17_loops_part2/ForLoopRules.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m17_loops_part2/ForLoopRules.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/m17_loops_part2/Lab1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m17_loops_part2/Lab1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/m17_loops_part2/NestedLoopIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m17_loops_part2/NestedLoopIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/m17_loops_part2/NestedLoopPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m17_loops_part2/NestedLoopPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/m17_loops_part2/NumberTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m17_loops_part2/NumberTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/m18_loops_part3/BranchingStatementsIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m18_loops_part3/BranchingStatementsIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/m18_loops_part3/BranchingStatements_Return.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m18_loops_part3/BranchingStatements_Return.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/m18_loops_part3/DoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m18_loops_part3/DoWhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/m18_loops_part3/Lab1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m18_loops_part3/Lab1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/m18_loops_part3/Lab2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m18_loops_part3/Lab2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/m18_loops_part3/Lab3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m18_loops_part3/Lab3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/m18_loops_part3/Lab4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m18_loops_part3/Lab4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/m18_loops_part3/Lab5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m18_loops_part3/Lab5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/m18_loops_part3/LabelStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m18_loops_part3/LabelStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/m18_loops_part3/WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m18_loops_part3/WhileLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,73 +58,89 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Addition_VS_Concatenation.executor": "Run",
-    "Application.ArithmeticOperators.executor": "Run",
-    "Application.AssigmentOperator.executor": "Run",
-    "Application.BitWiseExckusiveOperators.executor": "Run",
-    "Application.BooleanVariable.executor": "Run",
-    "Application.Calculator.executor": "Run",
-    "Application.CharVariable.executor": "Run",
-    "Application.EligibleToVote.executor": "Run",
-    "Application.ExplicitCasting.executor": "Run",
-    "Application.FirstClass.executor": "Run",
-    "Application.FlightTicket.executor": "Run",
-    "Application.Grading.executor": "Run",
-    "Application.ImplicitCasting.executor": "Run",
-    "Application.Lab.executor": "Run",
-    "Application.Lab2.executor": "Run",
-    "Application.LabOperators.executor": "Run",
-    "Application.LogicalComplement.executor": "Run",
-    "Application.MixedOperations.executor": "Run",
-    "Application.Number.executor": "Run",
-    "Application.OR_Operator.executor": "Run",
-    "Application.OperatorAssignment.executor": "Run",
-    "Application.PrePostIncrement.executor": "Run",
-    "Application.RelationalsOperators.executor": "Run",
-    "Application.Salary.executor": "Debug",
-    "Application.ShorthandOperators.executor": "Run",
-    "Application.StringIntro.executor": "Run",
-    "Application.SwapValues.executor": "Run",
-    "Application.TernaryNumber.executor": "Run",
-    "Application.TotalPrice.executor": "Run",
-    "Application.UnaryOperatorPractices.executor": "Run",
-    "Application.UnaryPlusMinus.executor": "Run",
-    "Application.Watermelon.executor": "Run",
-    "Application.WeeklyWage.executor": "Run",
-    "Application.WholeNumbers.executor": "Run",
-    "Application.m15_selection_statements_part2.Lab.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propCompiler",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Addition_VS_Concatenation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArithmeticOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AssigmentOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BitWiseExckusiveOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BooleanVariable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BranchingStatementsIntro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharVariable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DifferentStartEnd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoWhileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EligibleToVote.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExplicitCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlightTicket.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForLoopRules.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Grading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ImplicitCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab3.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab4.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LabOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LabelStatement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lap1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LogicalComplement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MixedOperations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NestedLoopIntro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NestedLoopPractice.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OR_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperatorAssignment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrePostIncrement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RelationalsOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Salary.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ShorthandOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringIntro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwapValues.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TernaryNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TotalPrice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UnaryOperatorPractices.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UnaryPlusMinus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Watermelon.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WeeklyWage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WhileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WholeNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.m15_selection_statements_part2.Lab.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="m18_loops_part3" />
       <recent name="m14_selection_statements_part1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TernaryNumber">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m15_selection_statements_part2.Calculator" />
+  <component name="RunManager" selected="Application.Lab5">
+    <configuration name="BranchingStatementsIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m18_loops_part3.BranchingStatementsIntro" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m15_selection_statements_part2.*" />
+          <option name="PATTERN" value="m18_loops_part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Grading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m14_selection_statements_part1.Grading" />
+    <configuration name="Lab3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m18_loops_part3.Lab3" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m14_selection_statements_part1.*" />
+          <option name="PATTERN" value="m18_loops_part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Salary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m14_selection_statements_part1.Salary" />
+    <configuration name="Lab4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m18_loops_part3.Lab4" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m14_selection_statements_part1.*" />
+          <option name="PATTERN" value="m18_loops_part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TernaryNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m15_selection_statements_part2.TernaryNumber" />
+    <configuration name="Lab5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m18_loops_part3.Lab5" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m15_selection_statements_part2.*" />
+          <option name="PATTERN" value="m18_loops_part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="m15_selection_statements_part2.Lab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m15_selection_statements_part2.Lab" />
+    <configuration name="LabelStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m18_loops_part3.LabelStatement" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m15_selection_statements_part2.*" />
+          <option name="PATTERN" value="m18_loops_part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TernaryNumber" />
-        <item itemvalue="Application.m15_selection_statements_part2.Lab" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.Grading" />
-        <item itemvalue="Application.Salary" />
+        <item itemvalue="Application.Lab5" />
+        <item itemvalue="Application.Lab4" />
+        <item itemvalue="Application.Lab3" />
+        <item itemvalue="Application.LabelStatement" />
+        <item itemvalue="Application.BranchingStatementsIntro" />
       </list>
     </recent_temporary>
   </component>
@@ -203,12 +232,34 @@
       <workItem from="1704890113060" duration="4838000" />
       <workItem from="1704964702011" duration="1574000" />
       <workItem from="1704979422547" duration="7395000" />
-      <workItem from="1705048857537" duration="16351000" />
+      <workItem from="1705048857537" duration="54198000" />
+      <workItem from="1705489582505" duration="609000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/m17_loops_part2/NestedLoopPractice.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/m17_loops_part2/NestedLoopPractice.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/m18_loops_part3/Lab4.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
