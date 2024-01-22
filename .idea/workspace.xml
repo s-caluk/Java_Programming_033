@@ -5,22 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/m20_methods_part1/HierarchicalMethodCalls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m20_methods_part1/MethodsIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m21_methods_part2/EmpoyeeInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m21_methods_part2/OddOrEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m21_methods_part2/ParametersArgumentsIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m21_methods_part2/PassByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m21_methods_part2/ReturnKeywordInVoidMEthod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m21_methods_part2/ReturnMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m21_methods_part2/ReturnOddOrEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m21_methods_part2/SumOfThreeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m22_methods_part3/ReturnMethodPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m22_methods_part3/VoidMethodPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m23_method_overloading/CalculateArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m23_method_overloading/MethodOverloadingIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m25_class_and_object/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m25_class_and_object/CarClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m25_class_and_object/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m25_class_and_object/DogClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m26_user_input_scanner/MistakeNext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m26_user_input_scanner/NextAndNextLinePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m26_user_input_scanner/ScannerCharString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m26_user_input_scanner/ScannerDecimals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m26_user_input_scanner/ScannerIntegers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming_033/m18_loops_part3/Lab5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Programming_033/m18_loops_part3/Lab5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming_033/m23_method_overloading/CalculateArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Programming_033/m23_method_overloading/CalculateArea.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,10 +54,13 @@
     "Application.BitWiseExckusiveOperators.executor": "Run",
     "Application.BooleanVariable.executor": "Run",
     "Application.BranchingStatementsIntro.executor": "Run",
+    "Application.CalculateArea.executor": "Run",
     "Application.Calculator.executor": "Run",
+    "Application.CarClient.executor": "Run",
     "Application.CharVariable.executor": "Run",
     "Application.DifferentStartEnd.executor": "Run",
     "Application.DoWhileLoop.executor": "Run",
+    "Application.DogClient.executor": "Run",
     "Application.EligibleToVote.executor": "Run",
     "Application.EmpoyeeInfo.executor": "Run",
     "Application.ExplicitCasting.executor": "Run",
@@ -85,9 +83,11 @@
     "Application.LogicalComplement.executor": "Run",
     "Application.MethodOverloadingIntro.executor": "Run",
     "Application.MethodsIntro.executor": "Debug",
+    "Application.MistakeNext.executor": "Run",
     "Application.MixedOperations.executor": "Run",
     "Application.NestedLoopIntro.executor": "Run",
     "Application.NestedLoopPractice.executor": "Debug",
+    "Application.NextAndNextLinePractice.executor": "Run",
     "Application.Number.executor": "Run",
     "Application.NumberTriangle.executor": "Run",
     "Application.OR_Operator.executor": "Run",
@@ -102,6 +102,9 @@
     "Application.ReturnMethods.executor": "Run",
     "Application.ReturnOddOrEven.executor": "Run",
     "Application.Salary.executor": "Debug",
+    "Application.ScannerCharString.executor": "Run",
+    "Application.ScannerDecimals.executor": "Run",
+    "Application.ScannerIntegers.executor": "Run",
     "Application.ShorthandOperators.executor": "Run",
     "Application.StringIntro.executor": "Run",
     "Application.SumOfThreeNumbers.executor": "Run",
@@ -139,13 +142,13 @@
       <recent name="m14_selection_statements_part1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CalculateArea">
-    <configuration name="CalculateArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m23_method_overloading.CalculateArea" />
+  <component name="RunManager" selected="Application.NextAndNextLinePractice">
+    <configuration name="MistakeNext" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m26_user_input_scanner.MistakeNext" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m23_method_overloading.*" />
+          <option name="PATTERN" value="m26_user_input_scanner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverloadingIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m23_method_overloading.MethodOverloadingIntro" />
+    <configuration name="NextAndNextLinePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m26_user_input_scanner.NextAndNextLinePractice" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m23_method_overloading.*" />
+          <option name="PATTERN" value="m26_user_input_scanner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnKeywordInVoidMEthod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m21_methods_part2.ReturnKeywordInVoidMEthod" />
+    <configuration name="ScannerCharString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m26_user_input_scanner.ScannerCharString" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m21_methods_part2.*" />
+          <option name="PATTERN" value="m26_user_input_scanner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnMethodPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m22_methods_part3.ReturnMethodPractice" />
+    <configuration name="ScannerDecimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m26_user_input_scanner.ScannerDecimals" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m22_methods_part3.*" />
+          <option name="PATTERN" value="m26_user_input_scanner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VoidMethodPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m22_methods_part3.VoidMethodPractice" />
+    <configuration name="ScannerIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m26_user_input_scanner.ScannerIntegers" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m22_methods_part3.*" />
+          <option name="PATTERN" value="m26_user_input_scanner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalculateArea" />
-        <item itemvalue="Application.MethodOverloadingIntro" />
-        <item itemvalue="Application.ReturnMethodPractice" />
-        <item itemvalue="Application.VoidMethodPractice" />
-        <item itemvalue="Application.ReturnKeywordInVoidMEthod" />
+        <item itemvalue="Application.NextAndNextLinePractice" />
+        <item itemvalue="Application.MistakeNext" />
+        <item itemvalue="Application.ScannerCharString" />
+        <item itemvalue="Application.ScannerDecimals" />
+        <item itemvalue="Application.ScannerIntegers" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +244,8 @@
       <workItem from="1705489582505" duration="609000" />
       <workItem from="1705497135551" duration="6735000" />
       <workItem from="1705506747101" duration="1292000" />
-      <workItem from="1705662210021" duration="6450000" />
+      <workItem from="1705662210021" duration="6945000" />
+      <workItem from="1705674937427" duration="10364000" />
     </task>
     <servers />
   </component>
