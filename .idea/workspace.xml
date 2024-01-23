@@ -5,17 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/m25_class_and_object/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m25_class_and_object/CarClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m25_class_and_object/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m25_class_and_object/DogClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m26_user_input_scanner/MistakeNext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m26_user_input_scanner/NextAndNextLinePractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m26_user_input_scanner/ScannerCharString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m26_user_input_scanner/ScannerDecimals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m26_user_input_scanner/ScannerIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m27_string_class_part1/ConcatLowerCaseUpperCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m27_string_class_part1/EachCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m27_string_class_part1/EqualsMethodVsEqualsOparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m27_string_class_part1/EqualsVsEqualsIgnoreCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m27_string_class_part1/LengthOfName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m27_string_class_part1/StringIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m28_string_class_part2/IndexOfLastIndexOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m28_string_class_part2/KeywordSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m28_string_class_part2/MutableSequenceOfCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m28_string_class_part2/ReplaceTrim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m28_string_class_part2/Substring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming_033/m23_method_overloading/CalculateArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Programming_033/m23_method_overloading/CalculateArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming_033/m26_user_input_scanner/NextAndNextLinePractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Programming_033/m26_user_input_scanner/NextAndNextLinePractice.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +60,15 @@
     "Application.Calculator.executor": "Run",
     "Application.CarClient.executor": "Run",
     "Application.CharVariable.executor": "Run",
+    "Application.ConcatLowerCaseUpperCase.executor": "Run",
     "Application.DifferentStartEnd.executor": "Run",
     "Application.DoWhileLoop.executor": "Run",
     "Application.DogClient.executor": "Run",
+    "Application.EachCharacter.executor": "Run",
     "Application.EligibleToVote.executor": "Run",
     "Application.EmpoyeeInfo.executor": "Run",
+    "Application.EqualsMethodVsEqualsOparator.executor": "Run",
+    "Application.EqualsVsEqualsIgnoreCase.executor": "Run",
     "Application.ExplicitCasting.executor": "Run",
     "Application.FirstClass.executor": "Run",
     "Application.FlightTicket.executor": "Run",
@@ -71,6 +77,8 @@
     "Application.Grading.executor": "Run",
     "Application.HierarchicalMethodCalls.executor": "Run",
     "Application.ImplicitCasting.executor": "Run",
+    "Application.IndexOfLastIndexOf.executor": "Run",
+    "Application.KeywordSearch.executor": "Run",
     "Application.Lab.executor": "Run",
     "Application.Lab1.executor": "Run",
     "Application.Lab2.executor": "Run",
@@ -80,11 +88,13 @@
     "Application.LabOperators.executor": "Run",
     "Application.LabelStatement.executor": "Run",
     "Application.Lap1.executor": "Run",
+    "Application.LengthOfName.executor": "Run",
     "Application.LogicalComplement.executor": "Run",
     "Application.MethodOverloadingIntro.executor": "Run",
     "Application.MethodsIntro.executor": "Debug",
     "Application.MistakeNext.executor": "Run",
     "Application.MixedOperations.executor": "Run",
+    "Application.MutableSequenceOfCharacters.executor": "Run",
     "Application.NestedLoopIntro.executor": "Run",
     "Application.NestedLoopPractice.executor": "Debug",
     "Application.NextAndNextLinePractice.executor": "Run",
@@ -97,6 +107,7 @@
     "Application.PassByValue.executor": "Run",
     "Application.PrePostIncrement.executor": "Run",
     "Application.RelationalsOperators.executor": "Run",
+    "Application.ReplaceTrim.executor": "Run",
     "Application.ReturnKeywordInVoidMEthod.executor": "Run",
     "Application.ReturnMethodPractice.executor": "Run",
     "Application.ReturnMethods.executor": "Run",
@@ -107,6 +118,7 @@
     "Application.ScannerIntegers.executor": "Run",
     "Application.ShorthandOperators.executor": "Run",
     "Application.StringIntro.executor": "Run",
+    "Application.Substring.executor": "Run",
     "Application.SumOfThreeNumbers.executor": "Run",
     "Application.SwapValues.executor": "Run",
     "Application.TernaryNumber.executor": "Run",
@@ -142,13 +154,13 @@
       <recent name="m14_selection_statements_part1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NextAndNextLinePractice">
-    <configuration name="MistakeNext" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m26_user_input_scanner.MistakeNext" />
+  <component name="RunManager" selected="Application.MutableSequenceOfCharacters">
+    <configuration name="IndexOfLastIndexOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m28_string_class_part2.IndexOfLastIndexOf" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m26_user_input_scanner.*" />
+          <option name="PATTERN" value="m28_string_class_part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextAndNextLinePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m26_user_input_scanner.NextAndNextLinePractice" />
+    <configuration name="KeywordSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m28_string_class_part2.KeywordSearch" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m26_user_input_scanner.*" />
+          <option name="PATTERN" value="m28_string_class_part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerCharString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m26_user_input_scanner.ScannerCharString" />
+    <configuration name="MutableSequenceOfCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m28_string_class_part2.MutableSequenceOfCharacters" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m26_user_input_scanner.*" />
+          <option name="PATTERN" value="m28_string_class_part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerDecimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m26_user_input_scanner.ScannerDecimals" />
+    <configuration name="ReplaceTrim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m28_string_class_part2.ReplaceTrim" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m26_user_input_scanner.*" />
+          <option name="PATTERN" value="m28_string_class_part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +207,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m26_user_input_scanner.ScannerIntegers" />
+    <configuration name="Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m28_string_class_part2.Substring" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m26_user_input_scanner.*" />
+          <option name="PATTERN" value="m28_string_class_part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NextAndNextLinePractice" />
-        <item itemvalue="Application.MistakeNext" />
-        <item itemvalue="Application.ScannerCharString" />
-        <item itemvalue="Application.ScannerDecimals" />
-        <item itemvalue="Application.ScannerIntegers" />
+        <item itemvalue="Application.MutableSequenceOfCharacters" />
+        <item itemvalue="Application.KeywordSearch" />
+        <item itemvalue="Application.Substring" />
+        <item itemvalue="Application.ReplaceTrim" />
+        <item itemvalue="Application.IndexOfLastIndexOf" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +257,8 @@
       <workItem from="1705497135551" duration="6735000" />
       <workItem from="1705506747101" duration="1292000" />
       <workItem from="1705662210021" duration="6945000" />
-      <workItem from="1705674937427" duration="10364000" />
+      <workItem from="1705674937427" duration="10692000" />
+      <workItem from="1705999139531" duration="15440000" />
     </task>
     <servers />
   </component>
