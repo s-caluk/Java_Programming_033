@@ -14,6 +14,7 @@ public class MutableSequenceOfCharacters {
         System.out.println(result);                //gnimmargorP avaJ
 
         //------------------------------------
+
         StringBuffer stringBuffer = new StringBuffer("Java");
         stringBuffer.append(" Programming");
         stringBuffer.reverse();
