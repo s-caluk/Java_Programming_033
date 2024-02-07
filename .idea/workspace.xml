@@ -4,20 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/m27_string_class_part1/ConcatLowerCaseUpperCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m27_string_class_part1/EachCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m27_string_class_part1/EqualsMethodVsEqualsOparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m27_string_class_part1/EqualsVsEqualsIgnoreCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m27_string_class_part1/LengthOfName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m27_string_class_part1/StringIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m28_string_class_part2/IndexOfLastIndexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m28_string_class_part2/KeywordSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m28_string_class_part2/MutableSequenceOfCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m28_string_class_part2/ReplaceTrim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m28_string_class_part2/Substring.java" afterDir="false" />
+    <list default="true" id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="String Classes are finished">
+      <change afterPath="$PROJECT_DIR$/src/m31_arrays_part1/ArrayLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m31_arrays_part1/ArraysUtilityClassIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m31_arrays_part1/DeclareArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m31_arrays_part1/ForEachLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m32_arrays_part2/EmployeeInitials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m32_arrays_part2/FindMaximumNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m32_arrays_part2/HowManyWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m32_arrays_part2/ReverseArrayElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m32_arrays_part2/SplitAndToCharArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m32_arrays_part2/SumOfOddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m33_arrays_part3/Iterating2DArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m33_arrays_part3/TwoDimensionalArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming_033/m26_user_input_scanner/NextAndNextLinePractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Programming_033/m26_user_input_scanner/NextAndNextLinePractice.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +52,8 @@
   "keyToString": {
     "Application.Addition_VS_Concatenation.executor": "Run",
     "Application.ArithmeticOperators.executor": "Run",
+    "Application.ArrayLength.executor": "Run",
+    "Application.ArraysUtilityClassIntro.executor": "Run",
     "Application.AssigmentOperator.executor": "Run",
     "Application.BitWiseExckusiveOperators.executor": "Run",
     "Application.BooleanVariable.executor": "Run",
@@ -61,23 +63,29 @@
     "Application.CarClient.executor": "Run",
     "Application.CharVariable.executor": "Run",
     "Application.ConcatLowerCaseUpperCase.executor": "Run",
+    "Application.DeclareArray.executor": "Run",
     "Application.DifferentStartEnd.executor": "Run",
     "Application.DoWhileLoop.executor": "Run",
     "Application.DogClient.executor": "Run",
     "Application.EachCharacter.executor": "Run",
     "Application.EligibleToVote.executor": "Run",
+    "Application.EmployeeInitials.executor": "Debug",
     "Application.EmpoyeeInfo.executor": "Run",
     "Application.EqualsMethodVsEqualsOparator.executor": "Run",
     "Application.EqualsVsEqualsIgnoreCase.executor": "Run",
     "Application.ExplicitCasting.executor": "Run",
+    "Application.FindMaximumNumber.executor": "Debug",
     "Application.FirstClass.executor": "Run",
     "Application.FlightTicket.executor": "Run",
+    "Application.ForEachLoop.executor": "Run",
     "Application.ForLoop.executor": "Run",
     "Application.ForLoopRules.executor": "Run",
     "Application.Grading.executor": "Run",
     "Application.HierarchicalMethodCalls.executor": "Run",
+    "Application.HowManyWords.executor": "Run",
     "Application.ImplicitCasting.executor": "Run",
     "Application.IndexOfLastIndexOf.executor": "Run",
+    "Application.Iterating2DArrays.executor": "Run",
     "Application.KeywordSearch.executor": "Run",
     "Application.Lab.executor": "Run",
     "Application.Lab1.executor": "Run",
@@ -112,17 +120,21 @@
     "Application.ReturnMethodPractice.executor": "Run",
     "Application.ReturnMethods.executor": "Run",
     "Application.ReturnOddOrEven.executor": "Run",
+    "Application.ReverseArrayElements.executor": "Run",
     "Application.Salary.executor": "Debug",
     "Application.ScannerCharString.executor": "Run",
     "Application.ScannerDecimals.executor": "Run",
     "Application.ScannerIntegers.executor": "Run",
     "Application.ShorthandOperators.executor": "Run",
+    "Application.SplitAndToCharArray.executor": "Run",
     "Application.StringIntro.executor": "Run",
     "Application.Substring.executor": "Run",
+    "Application.SumOfOddNumbers.executor": "Run",
     "Application.SumOfThreeNumbers.executor": "Run",
     "Application.SwapValues.executor": "Run",
     "Application.TernaryNumber.executor": "Run",
     "Application.TotalPrice.executor": "Run",
+    "Application.TwoDimensionalArrays.executor": "Run",
     "Application.UnaryOperatorPractices.executor": "Run",
     "Application.UnaryPlusMinus.executor": "Run",
     "Application.Watermelon.executor": "Run",
@@ -154,13 +166,13 @@
       <recent name="m14_selection_statements_part1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MutableSequenceOfCharacters">
-    <configuration name="IndexOfLastIndexOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m28_string_class_part2.IndexOfLastIndexOf" />
+  <component name="RunManager" selected="Application.Iterating2DArrays">
+    <configuration name="EmployeeInitials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m32_arrays_part2.EmployeeInitials" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m28_string_class_part2.*" />
+          <option name="PATTERN" value="m32_arrays_part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeywordSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m28_string_class_part2.KeywordSearch" />
+    <configuration name="HowManyWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m32_arrays_part2.HowManyWords" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m28_string_class_part2.*" />
+          <option name="PATTERN" value="m32_arrays_part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MutableSequenceOfCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m28_string_class_part2.MutableSequenceOfCharacters" />
+    <configuration name="Iterating2DArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m33_arrays_part3.Iterating2DArrays" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m28_string_class_part2.*" />
+          <option name="PATTERN" value="m33_arrays_part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReplaceTrim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m28_string_class_part2.ReplaceTrim" />
+    <configuration name="SplitAndToCharArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m32_arrays_part2.SplitAndToCharArray" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m28_string_class_part2.*" />
+          <option name="PATTERN" value="m32_arrays_part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m28_string_class_part2.Substring" />
+    <configuration name="TwoDimensionalArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m33_arrays_part3.TwoDimensionalArrays" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m28_string_class_part2.*" />
+          <option name="PATTERN" value="m33_arrays_part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MutableSequenceOfCharacters" />
-        <item itemvalue="Application.KeywordSearch" />
-        <item itemvalue="Application.Substring" />
-        <item itemvalue="Application.ReplaceTrim" />
-        <item itemvalue="Application.IndexOfLastIndexOf" />
+        <item itemvalue="Application.Iterating2DArrays" />
+        <item itemvalue="Application.TwoDimensionalArrays" />
+        <item itemvalue="Application.HowManyWords" />
+        <item itemvalue="Application.SplitAndToCharArray" />
+        <item itemvalue="Application.EmployeeInitials" />
       </list>
     </recent_temporary>
   </component>
@@ -259,11 +271,35 @@
       <workItem from="1705662210021" duration="6945000" />
       <workItem from="1705674937427" duration="10692000" />
       <workItem from="1705999139531" duration="15440000" />
+      <workItem from="1706028423883" duration="216000" />
+      <workItem from="1707229739891" duration="18825000" />
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <option name="closed" value="true" />
+      <created>1706028453996</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706028453996</updated>
+    </task>
+    <task id="LOCAL-00002" summary="String Classes are finished">
+      <option name="closed" value="true" />
+      <created>1706028562138</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706028562138</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <MESSAGE value="String Classes are finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="String Classes are finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -292,6 +328,20 @@
           <url>file://$PROJECT_DIR$/src/m20_methods_part1/MethodsIntro.java</url>
           <line>4</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/m32_arrays_part2/FindMaximumNumber.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/m32_arrays_part2/FindMaximumNumber.java</url>
+          <line>15</line>
+          <properties class="m32_arrays_part2.FindMaximumNumber" method="maxValue">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
