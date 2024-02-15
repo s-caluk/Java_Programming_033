@@ -4,19 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="String Classes are finished">
-      <change afterPath="$PROJECT_DIR$/src/m31_arrays_part1/ArrayLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m31_arrays_part1/ArraysUtilityClassIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m31_arrays_part1/DeclareArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m31_arrays_part1/ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m32_arrays_part2/EmployeeInitials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m32_arrays_part2/FindMaximumNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m32_arrays_part2/HowManyWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m32_arrays_part2/ReverseArrayElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m32_arrays_part2/SplitAndToCharArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m32_arrays_part2/SumOfOddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m33_arrays_part3/Iterating2DArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m33_arrays_part3/TwoDimensionalArrays.java" afterDir="false" />
+    <list default="true" id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="Arrays are finished">
+      <change afterPath="$PROJECT_DIR$/src/m35_java_lang_classes/Autoboxing_Unboxing_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m35_java_lang_classes/Autoboxing_Unboxing_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m35_java_lang_classes/MathClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m35_java_lang_classes/ParsingValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m35_java_lang_classes/WrapperClass_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m35_java_lang_classes/WrapperClasses_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m36_array_list/ArrayList_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m36_array_list/ArrayList_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m36_array_list/BulkOperations_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m36_array_list/CollectionUtility_Methods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,15 +51,21 @@
     "Application.Addition_VS_Concatenation.executor": "Run",
     "Application.ArithmeticOperators.executor": "Run",
     "Application.ArrayLength.executor": "Run",
+    "Application.ArrayList_Intro.executor": "Run",
+    "Application.ArrayList_Methods.executor": "Run",
     "Application.ArraysUtilityClassIntro.executor": "Run",
     "Application.AssigmentOperator.executor": "Run",
+    "Application.Autoboxing_Unboxing_Intro.executor": "Run",
+    "Application.Autoboxing_Unboxing_Practice.executor": "Run",
     "Application.BitWiseExckusiveOperators.executor": "Run",
     "Application.BooleanVariable.executor": "Run",
     "Application.BranchingStatementsIntro.executor": "Run",
+    "Application.BulkOperations_Methods.executor": "Run",
     "Application.CalculateArea.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.CarClient.executor": "Run",
     "Application.CharVariable.executor": "Run",
+    "Application.CollectionUtility_Methods.executor": "Run",
     "Application.ConcatLowerCaseUpperCase.executor": "Run",
     "Application.DeclareArray.executor": "Run",
     "Application.DifferentStartEnd.executor": "Run",
@@ -98,6 +102,7 @@
     "Application.Lap1.executor": "Run",
     "Application.LengthOfName.executor": "Run",
     "Application.LogicalComplement.executor": "Run",
+    "Application.MathClass.executor": "Run",
     "Application.MethodOverloadingIntro.executor": "Run",
     "Application.MethodsIntro.executor": "Debug",
     "Application.MistakeNext.executor": "Run",
@@ -112,6 +117,7 @@
     "Application.OddOrEven.executor": "Run",
     "Application.OperatorAssignment.executor": "Run",
     "Application.ParametersArgumentsIntro.executor": "Run",
+    "Application.ParsingValues.executor": "Run",
     "Application.PassByValue.executor": "Run",
     "Application.PrePostIncrement.executor": "Run",
     "Application.RelationalsOperators.executor": "Run",
@@ -141,6 +147,8 @@
     "Application.WeeklyWage.executor": "Run",
     "Application.WhileLoop.executor": "Run",
     "Application.WholeNumbers.executor": "Run",
+    "Application.WrapperClass_Methods.executor": "Run",
+    "Application.WrapperClassesIntro.executor": "Run",
     "Application.m15_selection_statements_part2.Lab.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -166,13 +174,13 @@
       <recent name="m14_selection_statements_part1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Iterating2DArrays">
-    <configuration name="EmployeeInitials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m32_arrays_part2.EmployeeInitials" />
+  <component name="RunManager" selected="Application.BulkOperations_Methods">
+    <configuration name="ArrayList_Intro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m36_array_list.ArrayList_Intro" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m32_arrays_part2.*" />
+          <option name="PATTERN" value="m36_array_list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HowManyWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m32_arrays_part2.HowManyWords" />
+    <configuration name="ArrayList_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m36_array_list.ArrayList_Methods" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m32_arrays_part2.*" />
+          <option name="PATTERN" value="m36_array_list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Iterating2DArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m33_arrays_part3.Iterating2DArrays" />
+    <configuration name="BulkOperations_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m36_array_list.BulkOperations_Methods" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m33_arrays_part3.*" />
+          <option name="PATTERN" value="m36_array_list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SplitAndToCharArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m32_arrays_part2.SplitAndToCharArray" />
+    <configuration name="CollectionUtility_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m36_array_list.CollectionUtility_Methods" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m32_arrays_part2.*" />
+          <option name="PATTERN" value="m36_array_list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +227,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoDimensionalArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m33_arrays_part3.TwoDimensionalArrays" />
+    <configuration name="MathClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m35_java_lang_classes.MathClass" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m33_arrays_part3.*" />
+          <option name="PATTERN" value="m35_java_lang_classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Iterating2DArrays" />
-        <item itemvalue="Application.TwoDimensionalArrays" />
-        <item itemvalue="Application.HowManyWords" />
-        <item itemvalue="Application.SplitAndToCharArray" />
-        <item itemvalue="Application.EmployeeInitials" />
+        <item itemvalue="Application.BulkOperations_Methods" />
+        <item itemvalue="Application.CollectionUtility_Methods" />
+        <item itemvalue="Application.ArrayList_Methods" />
+        <item itemvalue="Application.ArrayList_Intro" />
+        <item itemvalue="Application.MathClass" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +280,8 @@
       <workItem from="1705674937427" duration="10692000" />
       <workItem from="1705999139531" duration="15440000" />
       <workItem from="1706028423883" duration="216000" />
-      <workItem from="1707229739891" duration="18825000" />
+      <workItem from="1707229739891" duration="19318000" />
+      <workItem from="1707994018851" duration="13905000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -290,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706028562138</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Arrays are finished">
+      <option name="closed" value="true" />
+      <created>1707313926266</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707313926266</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,7 +316,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
     <MESSAGE value="String Classes are finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="String Classes are finished" />
+    <MESSAGE value="Arrays are finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays are finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
