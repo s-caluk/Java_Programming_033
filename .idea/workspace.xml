@@ -4,17 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="Arrays are finished">
-      <change afterPath="$PROJECT_DIR$/src/m35_java_lang_classes/Autoboxing_Unboxing_Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m35_java_lang_classes/Autoboxing_Unboxing_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m35_java_lang_classes/MathClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m35_java_lang_classes/ParsingValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m35_java_lang_classes/WrapperClass_Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m35_java_lang_classes/WrapperClasses_Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m36_array_list/ArrayList_Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m36_array_list/ArrayList_Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m36_array_list/BulkOperations_Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m36_array_list/CollectionUtility_Methods.java" afterDir="false" />
+    <list default="true" id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="ArraysList are finished">
+      <change afterPath="$PROJECT_DIR$/src/m38_oop_part1_constructor/ConstructorIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m38_oop_part1_constructor/InstanceBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m38_oop_part1_constructor/InstanceInitializationBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m38_oop_part1_constructor/PassingObjectsToMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m38_oop_part1_constructor/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m38_oop_part1_constructor/StudentClients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m39_static_keyword/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m39_static_keyword/CircleClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m39_static_keyword/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m39_static_keyword/StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m39_static_keyword/StaticImport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m39_static_keyword/StaticOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m39_static_keyword/VariableTypes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,8 +68,10 @@
     "Application.Calculator.executor": "Run",
     "Application.CarClient.executor": "Run",
     "Application.CharVariable.executor": "Run",
+    "Application.CircleClient.executor": "Run",
     "Application.CollectionUtility_Methods.executor": "Run",
     "Application.ConcatLowerCaseUpperCase.executor": "Run",
+    "Application.ConstructorIntro.executor": "Run",
     "Application.DeclareArray.executor": "Run",
     "Application.DifferentStartEnd.executor": "Run",
     "Application.DoWhileLoop.executor": "Run",
@@ -89,6 +94,8 @@
     "Application.HowManyWords.executor": "Run",
     "Application.ImplicitCasting.executor": "Run",
     "Application.IndexOfLastIndexOf.executor": "Run",
+    "Application.InstanceBlock.executor": "Run",
+    "Application.InstanceInitializationBlock.executor": "Run",
     "Application.Iterating2DArrays.executor": "Run",
     "Application.KeywordSearch.executor": "Run",
     "Application.Lab.executor": "Run",
@@ -108,6 +115,7 @@
     "Application.MistakeNext.executor": "Run",
     "Application.MixedOperations.executor": "Run",
     "Application.MutableSequenceOfCharacters.executor": "Run",
+    "Application.MyClass.executor": "Run",
     "Application.NestedLoopIntro.executor": "Run",
     "Application.NestedLoopPractice.executor": "Debug",
     "Application.NextAndNextLinePractice.executor": "Run",
@@ -119,6 +127,7 @@
     "Application.ParametersArgumentsIntro.executor": "Run",
     "Application.ParsingValues.executor": "Run",
     "Application.PassByValue.executor": "Run",
+    "Application.PassingObjectsToMethod.executor": "Run",
     "Application.PrePostIncrement.executor": "Run",
     "Application.RelationalsOperators.executor": "Run",
     "Application.ReplaceTrim.executor": "Run",
@@ -133,7 +142,11 @@
     "Application.ScannerIntegers.executor": "Run",
     "Application.ShorthandOperators.executor": "Run",
     "Application.SplitAndToCharArray.executor": "Run",
+    "Application.StaticBlock.executor": "Run",
+    "Application.StaticImport.executor": "Run",
+    "Application.StaticOrder.executor": "Run",
     "Application.StringIntro.executor": "Run",
+    "Application.StudentClients.executor": "Run",
     "Application.Substring.executor": "Run",
     "Application.SumOfOddNumbers.executor": "Run",
     "Application.SumOfThreeNumbers.executor": "Run",
@@ -174,13 +187,13 @@
       <recent name="m14_selection_statements_part1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BulkOperations_Methods">
-    <configuration name="ArrayList_Intro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m36_array_list.ArrayList_Intro" />
+  <component name="RunManager" selected="Application.StaticOrder">
+    <configuration name="CircleClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m39_static_keyword.CircleClient" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m36_array_list.*" />
+          <option name="PATTERN" value="m39_static_keyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayList_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m36_array_list.ArrayList_Methods" />
+    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m39_static_keyword.MyClass" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m36_array_list.*" />
+          <option name="PATTERN" value="m39_static_keyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BulkOperations_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m36_array_list.BulkOperations_Methods" />
+    <configuration name="StaticBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m39_static_keyword.StaticBlock" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m36_array_list.*" />
+          <option name="PATTERN" value="m39_static_keyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,12 +227,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionUtility_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m36_array_list.CollectionUtility_Methods" />
+    <configuration name="StaticImport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m39_static_keyword.StaticImport" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m36_array_list.*" />
+          <option name="PATTERN" value="m39_static_keyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,12 +240,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m35_java_lang_classes.MathClass" />
+    <configuration name="StaticOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m39_static_keyword.StaticOrder" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m35_java_lang_classes.*" />
+          <option name="PATTERN" value="m39_static_keyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,11 +255,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BulkOperations_Methods" />
-        <item itemvalue="Application.CollectionUtility_Methods" />
-        <item itemvalue="Application.ArrayList_Methods" />
-        <item itemvalue="Application.ArrayList_Intro" />
-        <item itemvalue="Application.MathClass" />
+        <item itemvalue="Application.StaticOrder" />
+        <item itemvalue="Application.StaticBlock" />
+        <item itemvalue="Application.StaticImport" />
+        <item itemvalue="Application.MyClass" />
+        <item itemvalue="Application.CircleClient" />
       </list>
     </recent_temporary>
   </component>
@@ -281,7 +294,10 @@
       <workItem from="1705999139531" duration="15440000" />
       <workItem from="1706028423883" duration="216000" />
       <workItem from="1707229739891" duration="19318000" />
-      <workItem from="1707994018851" duration="13905000" />
+      <workItem from="1707994018851" duration="14098000" />
+      <workItem from="1708093000699" duration="4931000" />
+      <workItem from="1708173731609" duration="5294000" />
+      <workItem from="1708332142480" duration="2205000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -307,7 +323,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707313926266</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ArraysList are finished">
+      <option name="closed" value="true" />
+      <created>1708014819196</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708014819196</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,7 +341,8 @@
     <MESSAGE value="." />
     <MESSAGE value="String Classes are finished" />
     <MESSAGE value="Arrays are finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays are finished" />
+    <MESSAGE value="ArraysList are finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArraysList are finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
