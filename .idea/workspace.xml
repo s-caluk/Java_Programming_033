@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="ArraysList are finished">
-      <change afterPath="$PROJECT_DIR$/src/m38_oop_part1_constructor/ConstructorIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m38_oop_part1_constructor/InstanceBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m38_oop_part1_constructor/InstanceInitializationBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m38_oop_part1_constructor/PassingObjectsToMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m38_oop_part1_constructor/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m38_oop_part1_constructor/StudentClients.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m39_static_keyword/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m39_static_keyword/CircleClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m39_static_keyword/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m39_static_keyword/StaticBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m39_static_keyword/StaticImport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m39_static_keyword/StaticOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m39_static_keyword/VariableTypes.java" afterDir="false" />
+    <list default="true" id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="Static Keyword is finished">
+      <change afterPath="$PROJECT_DIR$/src/m40_oop_part2_encapsulation/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m40_oop_part2_encapsulation/PersonClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,6 +117,7 @@
     "Application.ParsingValues.executor": "Run",
     "Application.PassByValue.executor": "Run",
     "Application.PassingObjectsToMethod.executor": "Run",
+    "Application.PersonClient.executor": "Run",
     "Application.PrePostIncrement.executor": "Run",
     "Application.RelationalsOperators.executor": "Run",
     "Application.ReplaceTrim.executor": "Run",
@@ -187,9 +177,9 @@
       <recent name="m14_selection_statements_part1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StaticOrder">
-    <configuration name="CircleClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m39_static_keyword.CircleClient" />
+  <component name="RunManager" selected="Application.PersonClient">
+    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m39_static_keyword.MyClass" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
@@ -201,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m39_static_keyword.MyClass" />
+    <configuration name="PersonClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m40_oop_part2_encapsulation.PersonClient" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m39_static_keyword.*" />
+          <option name="PATTERN" value="m40_oop_part2_encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PersonClient" />
         <item itemvalue="Application.StaticOrder" />
         <item itemvalue="Application.StaticBlock" />
         <item itemvalue="Application.StaticImport" />
         <item itemvalue="Application.MyClass" />
-        <item itemvalue="Application.CircleClient" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +287,8 @@
       <workItem from="1707994018851" duration="14098000" />
       <workItem from="1708093000699" duration="4931000" />
       <workItem from="1708173731609" duration="5294000" />
-      <workItem from="1708332142480" duration="2205000" />
+      <workItem from="1708332142480" duration="2370000" />
+      <workItem from="1708341002764" duration="2655000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -331,7 +322,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708014819196</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Static Keyword is finished">
+      <option name="closed" value="true" />
+      <created>1708335912421</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708335912421</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Static Keyword is finished">
+      <option name="closed" value="true" />
+      <created>1708335923734</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708335923734</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,7 +349,8 @@
     <MESSAGE value="String Classes are finished" />
     <MESSAGE value="Arrays are finished" />
     <MESSAGE value="ArraysList are finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArraysList are finished" />
+    <MESSAGE value="Static Keyword is finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Static Keyword is finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
