@@ -4,9 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="Static Keyword is finished">
-      <change afterPath="$PROJECT_DIR$/src/m40_oop_part2_encapsulation/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m40_oop_part2_encapsulation/PersonClient.java" afterDir="false" />
+    <list default="true" id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="Encapsulation is finished">
+      <change afterPath="$PROJECT_DIR$/src/m41_oop_part3_inheritance/StaticMembersInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m41_oop_part3_inheritance/inheritance_intro/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m41_oop_part3_inheritance/inheritance_intro/AnimalClients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m41_oop_part3_inheritance/inheritance_intro/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m41_oop_part3_inheritance/inheritance_intro/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m41_oop_part3_inheritance/method_overriding/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m41_oop_part3_inheritance/method_overriding/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m41_oop_part3_inheritance/method_overriding/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m41_oop_part3_inheritance/method_overriding/EmployeeClients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m41_oop_part3_inheritance/method_overriding/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m41_oop_part3_inheritance/super_keyword/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m41_oop_part3_inheritance/super_keyword/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m42_access_modifiers_final_object_class/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m42_access_modifiers_final_object_class/CarClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m42_access_modifiers_final_object_class/HidingFields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m42_access_modifiers_final_object_class/final_keyword/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m42_access_modifiers_final_object_class/final_keyword/AnimalClients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m42_access_modifiers_final_object_class/final_keyword/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m42_access_modifiers_final_object_class/package1/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m42_access_modifiers_final_object_class/package1/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m42_access_modifiers_final_object_class/package2/ClassC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m42_access_modifiers_final_object_class/package2/ClassD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,12 +55,12 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Addition_VS_Concatenation.executor": "Run",
+    "Application.AnimalClients.executor": "Run",
     "Application.ArithmeticOperators.executor": "Run",
     "Application.ArrayLength.executor": "Run",
     "Application.ArrayList_Intro.executor": "Run",
@@ -58,6 +78,7 @@
     "Application.CarClient.executor": "Run",
     "Application.CharVariable.executor": "Run",
     "Application.CircleClient.executor": "Run",
+    "Application.ClassD.executor": "Run",
     "Application.CollectionUtility_Methods.executor": "Run",
     "Application.ConcatLowerCaseUpperCase.executor": "Run",
     "Application.ConstructorIntro.executor": "Run",
@@ -67,6 +88,7 @@
     "Application.DogClient.executor": "Run",
     "Application.EachCharacter.executor": "Run",
     "Application.EligibleToVote.executor": "Run",
+    "Application.EmployeeClients.executor": "Run",
     "Application.EmployeeInitials.executor": "Debug",
     "Application.EmpoyeeInfo.executor": "Run",
     "Application.EqualsMethodVsEqualsOparator.executor": "Run",
@@ -79,6 +101,7 @@
     "Application.ForLoop.executor": "Run",
     "Application.ForLoopRules.executor": "Run",
     "Application.Grading.executor": "Run",
+    "Application.HidingFields.executor": "Run",
     "Application.HierarchicalMethodCalls.executor": "Run",
     "Application.HowManyWords.executor": "Run",
     "Application.ImplicitCasting.executor": "Run",
@@ -134,6 +157,7 @@
     "Application.SplitAndToCharArray.executor": "Run",
     "Application.StaticBlock.executor": "Run",
     "Application.StaticImport.executor": "Run",
+    "Application.StaticMembersInheritance.executor": "Run",
     "Application.StaticOrder.executor": "Run",
     "Application.StringIntro.executor": "Run",
     "Application.StudentClients.executor": "Run",
@@ -153,6 +177,7 @@
     "Application.WrapperClass_Methods.executor": "Run",
     "Application.WrapperClassesIntro.executor": "Run",
     "Application.m15_selection_statements_part2.Lab.executor": "Run",
+    "Application.m42_access_modifiers_final_object_class.final_keyword.AnimalClients.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -177,13 +202,13 @@
       <recent name="m14_selection_statements_part1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PersonClient">
-    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m39_static_keyword.MyClass" />
+  <component name="RunManager" selected="Application.HidingFields">
+    <configuration name="CarClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m42_access_modifiers_final_object_class.CarClient" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m39_static_keyword.*" />
+          <option name="PATTERN" value="m42_access_modifiers_final_object_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m40_oop_part2_encapsulation.PersonClient" />
+    <configuration name="ClassD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m42_access_modifiers_final_object_class.package2.ClassD" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m40_oop_part2_encapsulation.*" />
+          <option name="PATTERN" value="m42_access_modifiers_final_object_class.package2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,12 +229,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m39_static_keyword.StaticBlock" />
+    <configuration name="HidingFields" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m42_access_modifiers_final_object_class.HidingFields" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m39_static_keyword.*" />
+          <option name="PATTERN" value="m42_access_modifiers_final_object_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,12 +242,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticImport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m39_static_keyword.StaticImport" />
+    <configuration name="StaticMembersInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m41_oop_part3_inheritance.StaticMembersInheritance" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m39_static_keyword.*" />
+          <option name="PATTERN" value="m41_oop_part3_inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,12 +255,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m39_static_keyword.StaticOrder" />
+    <configuration name="m42_access_modifiers_final_object_class.final_keyword.AnimalClients" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m42_access_modifiers_final_object_class.final_keyword.AnimalClients" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m39_static_keyword.*" />
+          <option name="PATTERN" value="m42_access_modifiers_final_object_class.final_keyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,11 +270,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PersonClient" />
-        <item itemvalue="Application.StaticOrder" />
-        <item itemvalue="Application.StaticBlock" />
-        <item itemvalue="Application.StaticImport" />
-        <item itemvalue="Application.MyClass" />
+        <item itemvalue="Application.HidingFields" />
+        <item itemvalue="Application.m42_access_modifiers_final_object_class.final_keyword.AnimalClients" />
+        <item itemvalue="Application.CarClient" />
+        <item itemvalue="Application.ClassD" />
+        <item itemvalue="Application.StaticMembersInheritance" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +313,10 @@
       <workItem from="1708093000699" duration="4931000" />
       <workItem from="1708173731609" duration="5294000" />
       <workItem from="1708332142480" duration="2370000" />
-      <workItem from="1708341002764" duration="2655000" />
+      <workItem from="1708341002764" duration="2733000" />
+      <workItem from="1708965157368" duration="11142000" />
+      <workItem from="1709033345327" duration="6018000" />
+      <workItem from="1709043787531" duration="848000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -338,7 +366,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708335923734</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Encapsulation is finished">
+      <option name="closed" value="true" />
+      <created>1708345406844</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708345406844</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,7 +386,8 @@
     <MESSAGE value="Arrays are finished" />
     <MESSAGE value="ArraysList are finished" />
     <MESSAGE value="Static Keyword is finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Static Keyword is finished" />
+    <MESSAGE value="Encapsulation is finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation is finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
