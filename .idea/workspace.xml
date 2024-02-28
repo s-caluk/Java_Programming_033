@@ -4,29 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="Encapsulation is finished">
-      <change afterPath="$PROJECT_DIR$/src/m41_oop_part3_inheritance/StaticMembersInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m41_oop_part3_inheritance/inheritance_intro/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m41_oop_part3_inheritance/inheritance_intro/AnimalClients.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m41_oop_part3_inheritance/inheritance_intro/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m41_oop_part3_inheritance/inheritance_intro/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m41_oop_part3_inheritance/method_overriding/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m41_oop_part3_inheritance/method_overriding/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m41_oop_part3_inheritance/method_overriding/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m41_oop_part3_inheritance/method_overriding/EmployeeClients.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m41_oop_part3_inheritance/method_overriding/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m41_oop_part3_inheritance/super_keyword/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m41_oop_part3_inheritance/super_keyword/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m42_access_modifiers_final_object_class/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m42_access_modifiers_final_object_class/CarClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m42_access_modifiers_final_object_class/HidingFields.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m42_access_modifiers_final_object_class/final_keyword/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m42_access_modifiers_final_object_class/final_keyword/AnimalClients.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m42_access_modifiers_final_object_class/final_keyword/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m42_access_modifiers_final_object_class/package1/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m42_access_modifiers_final_object_class/package1/ClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m42_access_modifiers_final_object_class/package2/ClassC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m42_access_modifiers_final_object_class/package2/ClassD.java" afterDir="false" />
+    <list default="true" id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="OOP Inheritance are finished">
+      <change afterPath="$PROJECT_DIR$/src/m43_oop_part4_abstraction/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m43_oop_part4_abstraction/Cube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m43_oop_part4_abstraction/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m43_oop_part4_abstraction/DishWasher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m43_oop_part4_abstraction/InterfaceMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m43_oop_part4_abstraction/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m43_oop_part4_abstraction/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m43_oop_part4_abstraction/ShapeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m43_oop_part4_abstraction/Volume.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -153,6 +141,7 @@
     "Application.ScannerCharString.executor": "Run",
     "Application.ScannerDecimals.executor": "Run",
     "Application.ScannerIntegers.executor": "Run",
+    "Application.ShapeClient.executor": "Run",
     "Application.ShorthandOperators.executor": "Run",
     "Application.SplitAndToCharArray.executor": "Run",
     "Application.StaticBlock.executor": "Run",
@@ -202,7 +191,7 @@
       <recent name="m14_selection_statements_part1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HidingFields">
+  <component name="RunManager" selected="Application.ShapeClient">
     <configuration name="CarClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="m42_access_modifiers_final_object_class.CarClient" />
       <module name="Java_Programming_033" />
@@ -242,12 +231,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticMembersInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m41_oop_part3_inheritance.StaticMembersInheritance" />
+    <configuration name="ShapeClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m43_oop_part4_abstraction.ShapeClient" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m41_oop_part3_inheritance.*" />
+          <option name="PATTERN" value="m43_oop_part4_abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,11 +259,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShapeClient" />
         <item itemvalue="Application.HidingFields" />
         <item itemvalue="Application.m42_access_modifiers_final_object_class.final_keyword.AnimalClients" />
         <item itemvalue="Application.CarClient" />
         <item itemvalue="Application.ClassD" />
-        <item itemvalue="Application.StaticMembersInheritance" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +305,8 @@
       <workItem from="1708341002764" duration="2733000" />
       <workItem from="1708965157368" duration="11142000" />
       <workItem from="1709033345327" duration="6018000" />
-      <workItem from="1709043787531" duration="848000" />
+      <workItem from="1709043787531" duration="964000" />
+      <workItem from="1709121259502" duration="7664000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -374,7 +364,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708345406844</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="OOP Inheritance are finished">
+      <option name="closed" value="true" />
+      <created>1709045053193</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709045053193</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -387,7 +385,8 @@
     <MESSAGE value="ArraysList are finished" />
     <MESSAGE value="Static Keyword is finished" />
     <MESSAGE value="Encapsulation is finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation is finished" />
+    <MESSAGE value="OOP Inheritance are finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP Inheritance are finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
