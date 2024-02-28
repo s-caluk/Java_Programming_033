@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="OOP Inheritance are finished">
-      <change afterPath="$PROJECT_DIR$/src/m43_oop_part4_abstraction/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m43_oop_part4_abstraction/Cube.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m43_oop_part4_abstraction/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m43_oop_part4_abstraction/DishWasher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m43_oop_part4_abstraction/InterfaceMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m43_oop_part4_abstraction/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m43_oop_part4_abstraction/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m43_oop_part4_abstraction/ShapeClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m43_oop_part4_abstraction/Volume.java" afterDir="false" />
+    <list default="true" id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="Abstract and Interface are finished">
+      <change afterPath="$PROJECT_DIR$/src/m44_oop_part5_polymorphism/InstanceOfKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m44_oop_part5_polymorphism/PolymorphismIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m44_oop_part5_polymorphism/ReferenceTypeCasting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -96,6 +90,7 @@
     "Application.IndexOfLastIndexOf.executor": "Run",
     "Application.InstanceBlock.executor": "Run",
     "Application.InstanceInitializationBlock.executor": "Run",
+    "Application.InstanceOfKeyword.executor": "Run",
     "Application.Iterating2DArrays.executor": "Run",
     "Application.KeywordSearch.executor": "Run",
     "Application.Lab.executor": "Run",
@@ -129,7 +124,9 @@
     "Application.PassByValue.executor": "Run",
     "Application.PassingObjectsToMethod.executor": "Run",
     "Application.PersonClient.executor": "Run",
+    "Application.PolymorphismIntro.executor": "Run",
     "Application.PrePostIncrement.executor": "Run",
+    "Application.ReferenceTypeCasting.executor": "Run",
     "Application.RelationalsOperators.executor": "Run",
     "Application.ReplaceTrim.executor": "Run",
     "Application.ReturnKeywordInVoidMEthod.executor": "Run",
@@ -191,39 +188,52 @@
       <recent name="m14_selection_statements_part1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ShapeClient">
-    <configuration name="CarClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m42_access_modifiers_final_object_class.CarClient" />
-      <module name="Java_Programming_033" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="m42_access_modifiers_final_object_class.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ClassD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m42_access_modifiers_final_object_class.package2.ClassD" />
-      <module name="Java_Programming_033" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="m42_access_modifiers_final_object_class.package2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReferenceTypeCasting">
     <configuration name="HidingFields" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="m42_access_modifiers_final_object_class.HidingFields" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="m42_access_modifiers_final_object_class.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstanceOfKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m44_oop_part5_polymorphism.InstanceOfKeyword" />
+      <module name="Java_Programming_033" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="m44_oop_part5_polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolymorphismIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m44_oop_part5_polymorphism.PolymorphismIntro" />
+      <module name="Java_Programming_033" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="m44_oop_part5_polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReferenceTypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m44_oop_part5_polymorphism.ReferenceTypeCasting" />
+      <module name="Java_Programming_033" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="m44_oop_part5_polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,26 +254,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="m42_access_modifiers_final_object_class.final_keyword.AnimalClients" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m42_access_modifiers_final_object_class.final_keyword.AnimalClients" />
-      <module name="Java_Programming_033" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="m42_access_modifiers_final_object_class.final_keyword.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReferenceTypeCasting" />
+        <item itemvalue="Application.InstanceOfKeyword" />
+        <item itemvalue="Application.PolymorphismIntro" />
         <item itemvalue="Application.ShapeClient" />
         <item itemvalue="Application.HidingFields" />
-        <item itemvalue="Application.m42_access_modifiers_final_object_class.final_keyword.AnimalClients" />
-        <item itemvalue="Application.CarClient" />
-        <item itemvalue="Application.ClassD" />
       </list>
     </recent_temporary>
   </component>
@@ -307,6 +304,7 @@
       <workItem from="1709033345327" duration="6018000" />
       <workItem from="1709043787531" duration="964000" />
       <workItem from="1709121259502" duration="7664000" />
+      <workItem from="1709140214878" duration="4300000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -372,7 +370,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709045053193</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Abstract and Interface are finished">
+      <option name="closed" value="true" />
+      <created>1709139969523</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709139969523</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,7 +392,8 @@
     <MESSAGE value="Static Keyword is finished" />
     <MESSAGE value="Encapsulation is finished" />
     <MESSAGE value="OOP Inheritance are finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP Inheritance are finished" />
+    <MESSAGE value="Abstract and Interface are finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstract and Interface are finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
