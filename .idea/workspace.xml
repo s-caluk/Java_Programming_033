@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="Abstract and Interface are finished">
-      <change afterPath="$PROJECT_DIR$/src/m44_oop_part5_polymorphism/InstanceOfKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m44_oop_part5_polymorphism/PolymorphismIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m44_oop_part5_polymorphism/ReferenceTypeCasting.java" afterDir="false" />
+    <list default="true" id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="polymorphism are finished">
+      <change afterPath="$PROJECT_DIR$/src/m46_error_exception_handling/CheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m46_error_exception_handling/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m46_error_exception_handling/ErrorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m46_error_exception_handling/ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m46_error_exception_handling/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m46_error_exception_handling/ThrowingException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m46_error_exception_handling/ThrowsKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m46_error_exception_handling/UncheckedException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,11 +64,13 @@
     "Application.Calculator.executor": "Run",
     "Application.CarClient.executor": "Run",
     "Application.CharVariable.executor": "Run",
+    "Application.CheckedException.executor": "Run",
     "Application.CircleClient.executor": "Run",
     "Application.ClassD.executor": "Run",
     "Application.CollectionUtility_Methods.executor": "Run",
     "Application.ConcatLowerCaseUpperCase.executor": "Run",
     "Application.ConstructorIntro.executor": "Run",
+    "Application.CustomException.executor": "Run",
     "Application.DeclareArray.executor": "Run",
     "Application.DifferentStartEnd.executor": "Run",
     "Application.DoWhileLoop.executor": "Run",
@@ -75,6 +82,7 @@
     "Application.EmpoyeeInfo.executor": "Run",
     "Application.EqualsMethodVsEqualsOparator.executor": "Run",
     "Application.EqualsVsEqualsIgnoreCase.executor": "Run",
+    "Application.ExceptionHandling.executor": "Run",
     "Application.ExplicitCasting.executor": "Run",
     "Application.FindMaximumNumber.executor": "Debug",
     "Application.FirstClass.executor": "Run",
@@ -152,10 +160,13 @@
     "Application.SumOfThreeNumbers.executor": "Run",
     "Application.SwapValues.executor": "Run",
     "Application.TernaryNumber.executor": "Run",
+    "Application.ThrowingException.executor": "Run",
+    "Application.ThrowsKeyword.executor": "Run",
     "Application.TotalPrice.executor": "Run",
     "Application.TwoDimensionalArrays.executor": "Run",
     "Application.UnaryOperatorPractices.executor": "Run",
     "Application.UnaryPlusMinus.executor": "Run",
+    "Application.UncheckedException.executor": "Run",
     "Application.Watermelon.executor": "Run",
     "Application.WeeklyWage.executor": "Run",
     "Application.WhileLoop.executor": "Run",
@@ -188,13 +199,13 @@
       <recent name="m14_selection_statements_part1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReferenceTypeCasting">
-    <configuration name="HidingFields" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m42_access_modifiers_final_object_class.HidingFields" />
+  <component name="RunManager" selected="Application.CustomException">
+    <configuration name="CheckedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m46_error_exception_handling.CheckedException" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m42_access_modifiers_final_object_class.*" />
+          <option name="PATTERN" value="m46_error_exception_handling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +213,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceOfKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m44_oop_part5_polymorphism.InstanceOfKeyword" />
+    <configuration name="CustomException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m46_error_exception_handling.CustomException" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m44_oop_part5_polymorphism.*" />
+          <option name="PATTERN" value="m46_error_exception_handling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,12 +226,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolymorphismIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m44_oop_part5_polymorphism.PolymorphismIntro" />
+    <configuration name="ExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m46_error_exception_handling.ExceptionHandling" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m44_oop_part5_polymorphism.*" />
+          <option name="PATTERN" value="m46_error_exception_handling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,12 +239,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReferenceTypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m44_oop_part5_polymorphism.ReferenceTypeCasting" />
+    <configuration name="ThrowsKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m46_error_exception_handling.ThrowsKeyword" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m44_oop_part5_polymorphism.*" />
+          <option name="PATTERN" value="m46_error_exception_handling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,12 +252,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShapeClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m43_oop_part4_abstraction.ShapeClient" />
+    <configuration name="UncheckedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m46_error_exception_handling.UncheckedException" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m43_oop_part4_abstraction.*" />
+          <option name="PATTERN" value="m46_error_exception_handling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,11 +267,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReferenceTypeCasting" />
-        <item itemvalue="Application.InstanceOfKeyword" />
-        <item itemvalue="Application.PolymorphismIntro" />
-        <item itemvalue="Application.ShapeClient" />
-        <item itemvalue="Application.HidingFields" />
+        <item itemvalue="Application.CustomException" />
+        <item itemvalue="Application.ThrowsKeyword" />
+        <item itemvalue="Application.CheckedException" />
+        <item itemvalue="Application.ExceptionHandling" />
+        <item itemvalue="Application.UncheckedException" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +315,8 @@
       <workItem from="1709033345327" duration="6018000" />
       <workItem from="1709043787531" duration="964000" />
       <workItem from="1709121259502" duration="7664000" />
-      <workItem from="1709140214878" duration="4300000" />
+      <workItem from="1709140214878" duration="4958000" />
+      <workItem from="1709549145134" duration="5540000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -378,7 +390,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709139969523</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="polymorphism are finished">
+      <option name="closed" value="true" />
+      <created>1709151827220</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709151827220</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,7 +413,8 @@
     <MESSAGE value="Encapsulation is finished" />
     <MESSAGE value="OOP Inheritance are finished" />
     <MESSAGE value="Abstract and Interface are finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Abstract and Interface are finished" />
+    <MESSAGE value="polymorphism are finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="polymorphism are finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
