@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="polymorphism are finished">
-      <change afterPath="$PROJECT_DIR$/src/m46_error_exception_handling/CheckedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m46_error_exception_handling/CustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m46_error_exception_handling/ErrorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m46_error_exception_handling/ExceptionHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m46_error_exception_handling/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m46_error_exception_handling/ThrowingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m46_error_exception_handling/ThrowsKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m46_error_exception_handling/UncheckedException.java" afterDir="false" />
+    <list default="true" id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="Exception and Error are finished">
+      <change afterPath="$PROJECT_DIR$/src/m47_collections_part1/DequePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m47_collections_part1/ListArrayListPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m47_collections_part1/ListLinkedListPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m47_collections_part1/ListStackPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m47_collections_part1/ListVectorPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m47_collections_part1/QueuePractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +70,7 @@
     "Application.ConstructorIntro.executor": "Run",
     "Application.CustomException.executor": "Run",
     "Application.DeclareArray.executor": "Run",
+    "Application.DequePractice.executor": "Run",
     "Application.DifferentStartEnd.executor": "Run",
     "Application.DoWhileLoop.executor": "Run",
     "Application.DogClient.executor": "Run",
@@ -111,6 +110,10 @@
     "Application.LabelStatement.executor": "Run",
     "Application.Lap1.executor": "Run",
     "Application.LengthOfName.executor": "Run",
+    "Application.ListArrayListPractice.executor": "Run",
+    "Application.ListLinkedListPractice.executor": "Run",
+    "Application.ListStackPractice.executor": "Run",
+    "Application.ListVectorPractice.executor": "Run",
     "Application.LogicalComplement.executor": "Run",
     "Application.MathClass.executor": "Run",
     "Application.MethodOverloadingIntro.executor": "Run",
@@ -134,6 +137,7 @@
     "Application.PersonClient.executor": "Run",
     "Application.PolymorphismIntro.executor": "Run",
     "Application.PrePostIncrement.executor": "Run",
+    "Application.QueuePractice.executor": "Run",
     "Application.ReferenceTypeCasting.executor": "Run",
     "Application.RelationalsOperators.executor": "Run",
     "Application.ReplaceTrim.executor": "Run",
@@ -199,13 +203,13 @@
       <recent name="m14_selection_statements_part1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CustomException">
-    <configuration name="CheckedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m46_error_exception_handling.CheckedException" />
+  <component name="RunManager" selected="Application.DequePractice">
+    <configuration name="DequePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m47_collections_part1.DequePractice" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m46_error_exception_handling.*" />
+          <option name="PATTERN" value="m47_collections_part1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m46_error_exception_handling.CustomException" />
+    <configuration name="ListLinkedListPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m47_collections_part1.ListLinkedListPractice" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m46_error_exception_handling.*" />
+          <option name="PATTERN" value="m47_collections_part1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,12 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m46_error_exception_handling.ExceptionHandling" />
+    <configuration name="ListStackPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m47_collections_part1.ListStackPractice" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m46_error_exception_handling.*" />
+          <option name="PATTERN" value="m47_collections_part1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,12 +243,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThrowsKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m46_error_exception_handling.ThrowsKeyword" />
+    <configuration name="ListVectorPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m47_collections_part1.ListVectorPractice" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m46_error_exception_handling.*" />
+          <option name="PATTERN" value="m47_collections_part1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,12 +256,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UncheckedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m46_error_exception_handling.UncheckedException" />
+    <configuration name="QueuePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m47_collections_part1.QueuePractice" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m46_error_exception_handling.*" />
+          <option name="PATTERN" value="m47_collections_part1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,11 +271,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CustomException" />
-        <item itemvalue="Application.ThrowsKeyword" />
-        <item itemvalue="Application.CheckedException" />
-        <item itemvalue="Application.ExceptionHandling" />
-        <item itemvalue="Application.UncheckedException" />
+        <item itemvalue="Application.DequePractice" />
+        <item itemvalue="Application.QueuePractice" />
+        <item itemvalue="Application.ListStackPractice" />
+        <item itemvalue="Application.ListVectorPractice" />
+        <item itemvalue="Application.ListLinkedListPractice" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +320,8 @@
       <workItem from="1709043787531" duration="964000" />
       <workItem from="1709121259502" duration="7664000" />
       <workItem from="1709140214878" duration="4958000" />
-      <workItem from="1709549145134" duration="5540000" />
+      <workItem from="1709549145134" duration="5987000" />
+      <workItem from="1709759458748" duration="7058000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -398,7 +403,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709151827220</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Exception and Error are finished">
+      <option name="closed" value="true" />
+      <created>1709557731308</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709557731308</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -414,7 +427,8 @@
     <MESSAGE value="OOP Inheritance are finished" />
     <MESSAGE value="Abstract and Interface are finished" />
     <MESSAGE value="polymorphism are finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="polymorphism are finished" />
+    <MESSAGE value="Exception and Error are finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exception and Error are finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
