@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="Exception and Error are finished">
-      <change afterPath="$PROJECT_DIR$/src/m47_collections_part1/DequePractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m47_collections_part1/ListArrayListPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m47_collections_part1/ListLinkedListPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m47_collections_part1/ListStackPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m47_collections_part1/ListVectorPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m47_collections_part1/QueuePractice.java" afterDir="false" />
+    <list default="true" id="1c5a2592-8d24-446a-b3cb-9be7e9b2bd43" name="Changes" comment="Collections are finished">
+      <change afterPath="$PROJECT_DIR$/src/m48_collections_part2/IteratorPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m48_collections_part2/ListSetQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m48_collections_part2/SetPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m49_maps/IteratingThroughMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m49_maps/MapsMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,6 +98,8 @@
     "Application.InstanceInitializationBlock.executor": "Run",
     "Application.InstanceOfKeyword.executor": "Run",
     "Application.Iterating2DArrays.executor": "Run",
+    "Application.IteratingThroughMaps.executor": "Run",
+    "Application.IteratorPractice.executor": "Run",
     "Application.KeywordSearch.executor": "Run",
     "Application.Lab.executor": "Run",
     "Application.Lab1.executor": "Run",
@@ -112,9 +113,11 @@
     "Application.LengthOfName.executor": "Run",
     "Application.ListArrayListPractice.executor": "Run",
     "Application.ListLinkedListPractice.executor": "Run",
+    "Application.ListSetQueue.executor": "Run",
     "Application.ListStackPractice.executor": "Run",
     "Application.ListVectorPractice.executor": "Run",
     "Application.LogicalComplement.executor": "Run",
+    "Application.MapsMethods.executor": "Run",
     "Application.MathClass.executor": "Run",
     "Application.MethodOverloadingIntro.executor": "Run",
     "Application.MethodsIntro.executor": "Debug",
@@ -150,6 +153,7 @@
     "Application.ScannerCharString.executor": "Run",
     "Application.ScannerDecimals.executor": "Run",
     "Application.ScannerIntegers.executor": "Run",
+    "Application.SetPractice.executor": "Run",
     "Application.ShapeClient.executor": "Run",
     "Application.ShorthandOperators.executor": "Run",
     "Application.SplitAndToCharArray.executor": "Run",
@@ -203,13 +207,13 @@
       <recent name="m14_selection_statements_part1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DequePractice">
-    <configuration name="DequePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m47_collections_part1.DequePractice" />
+  <component name="RunManager" selected="Application.IteratingThroughMaps">
+    <configuration name="IteratingThroughMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m49_maps.IteratingThroughMaps" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m47_collections_part1.*" />
+          <option name="PATTERN" value="m49_maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,12 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListLinkedListPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m47_collections_part1.ListLinkedListPractice" />
+    <configuration name="IteratorPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m48_collections_part2.IteratorPractice" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m47_collections_part1.*" />
+          <option name="PATTERN" value="m48_collections_part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,12 +234,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListStackPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m47_collections_part1.ListStackPractice" />
+    <configuration name="ListSetQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m48_collections_part2.ListSetQueue" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m47_collections_part1.*" />
+          <option name="PATTERN" value="m48_collections_part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,12 +247,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListVectorPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m47_collections_part1.ListVectorPractice" />
+    <configuration name="MapsMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m49_maps.MapsMethods" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m47_collections_part1.*" />
+          <option name="PATTERN" value="m49_maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,12 +260,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueuePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="m47_collections_part1.QueuePractice" />
+    <configuration name="SetPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m48_collections_part2.SetPractice" />
       <module name="Java_Programming_033" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="m47_collections_part1.*" />
+          <option name="PATTERN" value="m48_collections_part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DequePractice" />
-        <item itemvalue="Application.QueuePractice" />
-        <item itemvalue="Application.ListStackPractice" />
-        <item itemvalue="Application.ListVectorPractice" />
-        <item itemvalue="Application.ListLinkedListPractice" />
+        <item itemvalue="Application.IteratingThroughMaps" />
+        <item itemvalue="Application.MapsMethods" />
+        <item itemvalue="Application.IteratorPractice" />
+        <item itemvalue="Application.ListSetQueue" />
+        <item itemvalue="Application.SetPractice" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +325,8 @@
       <workItem from="1709121259502" duration="7664000" />
       <workItem from="1709140214878" duration="4958000" />
       <workItem from="1709549145134" duration="5987000" />
-      <workItem from="1709759458748" duration="7058000" />
+      <workItem from="1709759458748" duration="7733000" />
+      <workItem from="1709833137218" duration="5753000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -411,7 +416,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709557731308</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Collections are finished">
+      <option name="closed" value="true" />
+      <created>1709823193657</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1709823193657</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -428,7 +441,8 @@
     <MESSAGE value="Abstract and Interface are finished" />
     <MESSAGE value="polymorphism are finished" />
     <MESSAGE value="Exception and Error are finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exception and Error are finished" />
+    <MESSAGE value="Collections are finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections are finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
