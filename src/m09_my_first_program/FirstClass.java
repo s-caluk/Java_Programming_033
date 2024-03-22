@@ -25,7 +25,6 @@ public class FirstClass {
         System.out.println("Would you like \'coffe\' or \r\'tea\'");  //return
         System.out.println("*****\n\t*****\n\t\t*****\n\t\t\t*****\n\t\t\t\t*****");
 
-
         int x = 5;
         x = --x - x++ + ++x + x;  //4-4+6+6
         System.out.println(x);
